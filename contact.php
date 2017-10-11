@@ -6,7 +6,7 @@ if(isset($_POST['contact'])) {
  
     // EDIT THE 2 LINES BELOW AS REQUIRED
  
-    $email_to = "parth.pnp@gmail.com";
+    $email_to = "XXXX.XXXXX.XXXXX@gmail.com";
  
     $email_subject = "Resume Website Contact Inquiry";
  
